@@ -49,7 +49,7 @@
 
 
 
-| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pk-pankajkumar) | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/github-icon.svg" alt="Github logo" width="34">](https://github.com/pankaj5417) | 
+| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pk-pankajkumar) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfkzOjap3n3ti_qbAJ3G16tWJ7gUh88rp3g&usqp=CAU" alt="Github logo" width="34">](https://github.com/pankaj5417) | 
 |:---:|:---:|:---:|:---:|
 
 
