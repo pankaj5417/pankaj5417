@@ -20,7 +20,7 @@
   <li> 🔭 I’m currently working on MERN stack Technology</li>
   <li> 🌱 I’m currently mastering  <b>React</b></a>, from  <b>Masai School</b></li>
     
-  <li> 👯 I’m open to </li>
+ <!-- <li> 👯 I’m open to </li>-->
 <!--   <li> 😄 Pronouns: He/Him </li> -->
 </ul><br/>
 
