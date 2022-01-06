@@ -49,7 +49,7 @@
 
 
 
-| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](www.linkedin.com/in/pk-pankajkumar) | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/github-icon.svg" alt="Github logo" width="34">]https://github.com/pankaj5417) | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](madhuban541@gmail.com)
+| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](www.linkedin.com/in/pk-pankajkumar) | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/github-icon.svg" alt="Github logo" width="34">](https://github.com/pankaj5417) | [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](madhuban541@gmail.com)
 |:---:|:---:|:---:|:---:|
 
 
