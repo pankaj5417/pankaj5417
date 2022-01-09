@@ -23,7 +23,7 @@
  <!-- <li> 👯 I’m open to </li>-->
 <!--   <li> 😄 Pronouns: He/Him </li> -->
 </ul><br/>
- Know more about me![](https://pankaj5417.github.io/myportfolio/)
+ Know more about me!(https://pankaj5417.github.io/myportfolio/)
 <p>
  <!-- GitHub Statistics!-->
 
