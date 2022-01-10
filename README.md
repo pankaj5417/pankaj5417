@@ -2,6 +2,8 @@
 <h1 align="center">Hi there 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">An aspiring Full Stack Developer</h3>
 
+<img src="https://github.com/pankaj5417/koovs.com/blob/main/about.png?raw=true" width="300px" align="right">
+
 <br/>
 <p align="left">
  
@@ -18,7 +20,7 @@
 <br/>
 <ul>
   <li> 🔭 I’m currently working on MERN stack Technology</li>
-  <li> 🌱 I’m currently mastering  <b>React</b></a>, from  <b>Masai School</b></li><img src="https://github.com/pankaj5417/koovs.com/blob/main/about.png?raw=true" width="300px">
+  <li> 🌱 I’m currently mastering  <b>React</b></a>, from  <b>Masai School</b></li>
 
     
  <!-- <li> 👯 I’m open to </li>-->
