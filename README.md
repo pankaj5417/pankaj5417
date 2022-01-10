@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">An aspiring Full Stack Developer</h3>
-<img src="https://github.com/pankaj5417/koovs.com/blob/main/about.png?raw=true" width="300px">
+<img src="https://github.com/pankaj5417/koovs.com/blob/main/about.png?raw=true" width="300px" align-self:right>
 
 <br/>
 <p align="left">
