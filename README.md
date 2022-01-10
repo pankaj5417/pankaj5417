@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Pankaj Kumar</h1>
-<h3 align="center">MERN stack Full Stack Developer</h3>
+<h3 align="center">An aspiring Full Stack Developer</h3>
 
 <br/>
 <p align="left">
