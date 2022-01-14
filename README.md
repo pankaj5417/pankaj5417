@@ -40,7 +40,7 @@
 
 
 
-| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pk-pankajkumar) | [<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/GitHub-Mark.png?raw=true" alt="Github logo" width="32">](https://github.com/pankaj5417) | 
+| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pk-pankajkumar target="_blank") | [<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/GitHub-Mark.png?raw=true" alt="Github logo" width="32">](https://github.com/pankaj5417 target="_blank") | 
 |:---:|:---:|:---:|:---:|
 
 
