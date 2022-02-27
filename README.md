@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">👋, I'm Pankaj Kumar</h1>
+<h1 align="center">Hi there <img width="32" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">👋, I'm Pankaj Kumar</h1>
 <h3 align="center">An aspiring Full stack web developer with background knowledge 
                     of MERN stacks with redux, passionate about building applications
                      with utmost efficiency.</h3>
@@ -39,12 +39,11 @@
 
 <!-- Handshake Gif-->
 # Connect with me<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/Handshake.gif?raw=true" height="32px">
-<h4>Know more about me</h4>
-<span >Linkedin</span>
-[<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="25">](https://www.linkedin.com/in/pk-pankajkumar) 
-
-
 <span >Github</span>[<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/GitHub-Mark.png?raw=true" alt="Github logo" margin-top="2" width="25">](https://github.com/pankaj5417) | 
+<span >Linkedin</span>[<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="25">](https://www.linkedin.com/in/pk-pankajkumar) 
+
+
+
 
 
 
