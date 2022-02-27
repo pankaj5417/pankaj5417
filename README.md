@@ -38,7 +38,7 @@
 <br/>
 
 <!-- Handshake Gif-->
-<h4>Know more about me</h4>[<p>Portfolio</p>](https://pankaj5417.github.io/myportfolio/)
+[Portfolio](https://pankaj5417.github.io/myportfolio/)
 
 # Connect with me<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/Handshake.gif?raw=true" height="32px">
 <br>
