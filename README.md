@@ -2,9 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">An aspiring Full stack web developer with background knowledge 
                     of MERN stacks with redux, passionate about building applications
-                     with utmost efficiency molded and shaped by Masai school’s 
-                     intensive and immersive learning. Looking forward to joining a
-                      company where I will be able to contribute towards individual and company growth.</h3>
+                     with utmost efficiency.</h3>
 
 <img src="https://github.com/pankaj5417/koovs.com/blob/main/about.png?raw=true" width="300px" align="right">
 
@@ -12,7 +10,7 @@
 <br>
 <ul>
   <li> 🔭 I’m currently working on MERN stack Technology</li>
-  <li> 🌱 I’m currently mastering  <b>React</b></a>, from  <b>Masai School</b></li>
+  <li> 🌱 I’m currently mastering  <b>React and Redux</b></a>, from  <b>Masai School</b></li>
 
     
  <!-- <li> 👯 I’m open to </li>-->
@@ -44,8 +42,7 @@
 
 
 
-| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pk-pankajkumar ) | [<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/GitHub-Mark.png?raw=true" alt="Github logo" width="32">](https://github.com/pankaj5417) | 
-|:---:|:---:|:---:|:---:|
+|<p>Linkedin</p>[<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/pk-pankajkumar ) | [<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/GitHub-Mark.png?raw=true" alt="Github logo" width="32">](https://github.com/pankaj5417) | 
 
 
 
