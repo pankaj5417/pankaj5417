@@ -40,7 +40,7 @@
 <!-- Handshake Gif-->
 # Connect with me<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/Handshake.gif?raw=true" height="32px">
 <h4>Know more about me</h4>
-<span font-size="25">Linkedin</span>| [<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="25">](https://www.linkedin.com/in/pk-pankajkumar) |
+<span >Linkedin</span>|[<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="25">](https://www.linkedin.com/in/pk-pankajkumar) |
 
 <span >Github</span>[<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/GitHub-Mark.png?raw=true" alt="Github logo" width="25">](https://github.com/pankaj5417) | 
 
