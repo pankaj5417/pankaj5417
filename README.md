@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi there 👋, I'm Pankaj Kumar</h1>
-<h3 align="center">An aspiring Full Stack Developer</h3>
+<h3 align="center">An aspiring Full stack web developer with background knowledge 
+                    of MERN stacks with redux, passionate about building applications
+                     with utmost efficiency molded and shaped by Masai school’s 
+                     intensive and immersive learning. Looking forward to joining a
+                      company where I will be able to contribute towards individual and company growth.</h3>
 
 <img src="https://github.com/pankaj5417/koovs.com/blob/main/about.png?raw=true" width="300px" align="right">
 
