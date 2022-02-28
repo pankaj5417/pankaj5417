@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there <img width="32" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Pankaj Kumar</h1>
 <h3 align="center">An aspiring Full stack web developer with background knowledge 
-                    of MERN stacks with redux, passionate about building applications
+                    of MERN stacks with hands-on experience on building interesting projects and passionate about building applications
                      with utmost efficiency.</h3>
 
 <img src="https://github.com/pankaj5417/koovs.com/blob/main/about.png?raw=true" width="300px" align="right">
