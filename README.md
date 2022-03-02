@@ -33,7 +33,7 @@
 </p>
 
 
-## Know more about me[Portfolio](https://pankaj5417.github.io/myportfolio/)
+## Know more about me : [Portfolio](https://pankaj5417.github.io/myportfolio/)
 
 <br/>
 
