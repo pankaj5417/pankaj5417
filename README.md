@@ -33,7 +33,7 @@
 </p>
 
 
-## Check out My work : [My Website](https://pankaj5417.github.io/myportfolio/)
+## Check out My work : [Pankaj Kumar](https://pankaj5417.github.io/myportfolio/)
 
 <br/>
 
@@ -42,8 +42,8 @@
 
 # Connect with me<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/Handshake.gif?raw=true" height="32px">
 
-<span >Github&nbsp;</span>[<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/GitHub-Mark.png?raw=true" alt="Github logo"  width="25">](https://github.com/pankaj5417) | 
-<span >Linkedin&nbsp;</span>[<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="25">](https://www.linkedin.com/in/pk-pankajkumar) 
+<span >&nbsp;</span>[<img src="https://github.com/pankaj5417/koovs.com/blob/main/icons/GitHub-Mark.png?raw=true" alt="Github logo"  width="25">](https://github.com/pankaj5417) | 
+<span >&nbsp;</span>[<img src="https://github.com/zaahidali/zaahidali/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="25">](https://www.linkedin.com/in/pk-pankajkumar) 
 
 
 
