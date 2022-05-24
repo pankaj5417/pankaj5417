@@ -9,7 +9,7 @@
 <br>
 <br>
 <ul>
-<li> 🔭 I’m good at JavaScript. </li>
+<li> 🔭 I’m good at JavaScript and MERN stack </li>
   <li> 🔭 I’m currently working on MERN stack Technology</li>
   <li> 🌱 I’m currently mastering  <b>React and Redux</b></a>, from  <b>Masai School</b></li>
 
